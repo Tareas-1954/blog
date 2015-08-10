@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tareas-1954.github.io/blog/atom.xml" rel="self"/>
   <link href="http://tareas-1954.github.io/blog/"/>
-  <updated>2015-08-10T16:15:54-05:00</updated>
+  <updated>2015-08-10T16:56:14-05:00</updated>
   <id>http://tareas-1954.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week 1]]></title>
+    <link href="http://tareas-1954.github.io/blog/blog/2015/08/10/week-1/"/>
+    <updated>2015-08-10T16:42:15-05:00</updated>
+    <id>http://tareas-1954.github.io/blog/blog/2015/08/10/week-1</id>
+    <content type="html"><![CDATA[<p>Thaasjl;dfg;k;ks</p>
+]]></content>
+  </entry>
   
 </feed>
