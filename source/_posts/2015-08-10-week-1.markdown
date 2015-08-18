@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "week 1"
-date: 2015-08-10 16:42:15 -0500
+title: "week "
+date: 2015-08-17 16:42:15 -0500
 comments: true
 categories: 
----
-Thaasjl;dfg;k;ks
+--- 
